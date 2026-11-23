@@ -4,6 +4,18 @@ So this is where I show what I've built. The code for each project is kept priva
 
 I'm a junior full-stack developer working toward quantitative development.
 
+## Two Second Sites
+
+My website business. I build fast, phone-first websites for small businesses in Howard County, Maryland. Every site gets its own design, no templates.
+
+- **Live:** https://twosecondsites.com
+
+## Peezy's Picks Discord Bot
+
+Discord bot for a live sports picks community. It reads the screenshots members post, turns them into structured data, and keeps a public records board that grades every pick. Every update has to pass over 500 automated tests before it ships.
+
+- **Stack:** Python
+
 ## Quant Evidence OS
 
 Trading research platform for scanning markets, reviewing strategy candidates, validating forecasts, and auditing why trades did or did not happen. Paper trading only. No live-money orders.
@@ -18,12 +30,24 @@ Workflow tool for reviewing vendor payment change requests before money moves. I
 - **Stack:** Python, FastAPI, React
 - **Live:** https://veripay-control.vercel.app
 
+## Email Outreach Assistant
+
+Tool that connects to Gmail, screens businesses against set criteria, and drafts follow-up emails on a schedule. I use it for outreach for Two Second Sites.
+
+- **Stack:** Python, Gmail API
+
 ## Website demo samples
 
 Six fictional website demos that show what I build for clients, from a one-page personal site to a small business site with a backend booking add-on.
 
 - **Stack:** HTML, CSS, JavaScript
 - **Live:** https://fictional-portfolio-demo-hub.vercel.app
+
+## FieldTrack
+
+Backend app I'm building in .NET to learn how real backend systems are put together. Still in progress.
+
+- **Stack:** .NET
 
 ## Riftbound Arena
 
@@ -45,7 +69,7 @@ Web app for finding potential website clients.
 
 ## Want to see the code?
 
-Just ask. You can reach me on [LinkedIn](https://www.linkedin.com/in/marc-corey-faustin-b594a3227).
+Just ask. You can reach me on [LinkedIn](https://www.linkedin.com/in/marc-corey-faustin/).
 
 ---
 
